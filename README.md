@@ -18,9 +18,9 @@ TITLE | RSS LINK
 [AWS Machine Learning Blog](https://aws.amazon.com/cn/blogs/machine-learning/) | <https://aws.amazon.com/blogs/ai/feed>
 [AI Roadmap Institute Blog – Medium](https://medium.com/ai-roadmap-institute) | <https://medium.com/feed/ai-roadmap-institute>
 [OpenAI Blog](https://blog.openai.com/) | <https://openai.com/feed.xml?format=xml>
-[News & Blog | DeepMind](https://deepmind.com/blog/) | <https://deepmind.com/blog/feed/basic>
+[News & Blog - DeepMind](https://deepmind.com/blog/) | <https://deepmind.com/blog/feed/basic>
 [Inbenta Blog: Artificial Intelligence, NLP & chatbots](https://www.inbenta.com/en/blog/) | <https://www.inbenta.com/en/blog/feed>
-[Blog | Clarifai](https://blog.clarifai.com/) | <http://blog.clarifai.com/feed>
+[Blog - Clarifai](https://blog.clarifai.com/) | <http://blog.clarifai.com/feed>
 [Playment Blogs](https://blog.playment.io/) | <https://blog.playment.io/feed>
 [DataRobot Blog](https://blog.datarobot.com/) | <https://www.datarobot.com/blog/feed>
 [Blog - Machine Intelligence Research Institute](https://intelligence.org/blog/) | <https://intelligence.org/blog/feed>
@@ -30,7 +30,7 @@ TITLE | RSS LINK
 [Blog – Iris.ai - Your Science Assistant](https://iris.ai/blog/) | <https://iris.ai/feed>
 [Blog on Machine Learning, Statistics & Software Development](http://blog.datumbox.com/) | <http://blog.datumbox.com/feed>
 [MITCSAIL - YouTube](https://www.youtube.com/user/MITCSAIL/videos) | <https://www.youtube.com/feeds/videos.xml?user=MITCSAIL>
-[Blog | Mighty AI](https://mighty.ai/blog/) | <https://mty.ai/feed>
+[Blog - Mighty AI](https://mighty.ai/blog/) | <https://mty.ai/feed>
 [Fusemachines Blogs - AI for Business](http://blog.fusemachines.com/) | <http://blog.fusemachines.com/feed>
 [Marek Rosa - dev blog](https://blog.marekrosa.org/) | <http://blog.marekrosa.org/feeds/posts/default>
 [Blog - Yseop](https://yseop.com/blog/) | <https://yseop.com/feed>

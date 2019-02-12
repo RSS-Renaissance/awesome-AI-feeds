@@ -15,9 +15,9 @@
 <outline text="AWS Machine Learning Blog" title="AWS Machine Learning Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/ai/feed" htmlUrl="https://aws.amazon.com/cn/blogs/machine-learning/"/>
 <outline text="AI Roadmap Institute Blog – Medium" title="AI Roadmap Institute Blog – Medium" type="rss" xmlUrl="https://medium.com/feed/ai-roadmap-institute" htmlUrl="https://medium.com/ai-roadmap-institute"/>
 <outline text="OpenAI Blog" title="OpenAI Blog" type="rss" xmlUrl="https://openai.com/feed.xml?format=xml" htmlUrl="https://blog.openai.com/"/>
-<outline text="News & Blog | DeepMind" title="News & Blog | DeepMind" type="rss" xmlUrl="https://deepmind.com/blog/feed/basic" htmlUrl="https://deepmind.com/blog/"/>
+<outline text="News & Blog - DeepMind" title="News & Blog - DeepMind" type="rss" xmlUrl="https://deepmind.com/blog/feed/basic" htmlUrl="https://deepmind.com/blog/"/>
 <outline text="Inbenta Blog: Artificial Intelligence, NLP & chatbots" title="Inbenta Blog: Artificial Intelligence, NLP & chatbots" type="rss" xmlUrl="https://www.inbenta.com/en/blog/feed" htmlUrl="https://www.inbenta.com/en/blog/"/>
-<outline text="Blog | Clarifai" title="Blog | Clarifai" type="rss" xmlUrl="http://blog.clarifai.com/feed" htmlUrl="https://blog.clarifai.com/"/>
+<outline text="Blog - Clarifai" title="Blog - Clarifai" type="rss" xmlUrl="http://blog.clarifai.com/feed" htmlUrl="https://blog.clarifai.com/"/>
 <outline text="Playment Blogs" title="Playment Blogs" type="rss" xmlUrl="https://blog.playment.io/feed" htmlUrl="https://blog.playment.io/"/>
 <outline text="DataRobot Blog" title="DataRobot Blog" type="rss" xmlUrl="https://www.datarobot.com/blog/feed" htmlUrl="https://blog.datarobot.com/"/>
 <outline text="Blog - Machine Intelligence Research Institute" title="Blog - Machine Intelligence Research Institute" type="rss" xmlUrl="https://intelligence.org/blog/feed" htmlUrl="https://intelligence.org/blog/"/>
@@ -27,7 +27,7 @@
 <outline text="Blog – Iris.ai - Your Science Assistant" title="Blog – Iris.ai - Your Science Assistant" type="rss" xmlUrl="https://iris.ai/feed" htmlUrl="https://iris.ai/blog/"/>
 <outline text="Blog on Machine Learning, Statistics & Software Development" title="Blog on Machine Learning, Statistics & Software Development" type="rss" xmlUrl="http://blog.datumbox.com/feed" htmlUrl="http://blog.datumbox.com/"/>
 <outline text="MITCSAIL - YouTube" title="MITCSAIL - YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=MITCSAIL" htmlUrl="https://www.youtube.com/user/MITCSAIL/videos"/>
-<outline text="Blog | Mighty AI" title="Blog | Mighty AI" type="rss" xmlUrl="https://mty.ai/feed" htmlUrl="https://mighty.ai/blog/"/>
+<outline text="Blog - Mighty AI" title="Blog - Mighty AI" type="rss" xmlUrl="https://mty.ai/feed" htmlUrl="https://mighty.ai/blog/"/>
 <outline text="Fusemachines Blogs - AI for Business" title="Fusemachines Blogs - AI for Business" type="rss" xmlUrl="http://blog.fusemachines.com/feed" htmlUrl="http://blog.fusemachines.com/"/>
 <outline text="Marek Rosa - dev blog" title="Marek Rosa - dev blog" type="rss" xmlUrl="http://blog.marekrosa.org/feeds/posts/default" htmlUrl="https://blog.marekrosa.org/"/>
 <outline text="Blog - Yseop" title="Blog - Yseop" type="rss" xmlUrl="https://yseop.com/feed" htmlUrl="https://yseop.com/blog/"/>
