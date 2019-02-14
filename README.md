@@ -2,18 +2,11 @@ This feed list url: https://raw.githubusercontent.com/RSS-Renaissance/awesome-AI
 
 TITLE | RSS LINK
 ----- | -----
-[AI Trends - The Business and Technology of Enterprise AI](https://www.aitrends.com/) | <https://aitrends.com/feed>
-[Artificial Intelligence News -- ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/) | <https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml>
 [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog/) | <http://machinelearningmastery.com/blog/feed>
-[Artificial intelligence - MIT News](http://news.mit.edu/topic/artificial-intelligence2) | <http://news.mit.edu/rss/topic/artificial-intelligence2>
-[Artificial Intelligence - reddit](https://www.reddit.com/r/artificial/) | <https://www.reddit.com/r/artificial/.rss>
 [AITopics](https://aitopics.org/search) | <http://feeds.feedburner.com/AIInTheNews>
 [Machine Learnings](https://machinelearnings.co/) | <https://machinelearnings.co/feed>
-[2019 Artificial Intelligence News - AI News](https://www.artificial-intelligence.blog/news/) | <https://www.artificial-intelligence.blog/news?format=RSS>
-[Google News - AI](https://news.google.com/search?q=artificial+intelligence&tbm=nws&*&hl=en-US&gl=US&ceid=US:en) | <https://news.google.com/news?cf=all&hl=en&pz=1&ned=us&q=artificial+intelligence&output=rss>
 [Machine Learning Blog](https://blogs.technet.microsoft.com/machinelearning/) | <https://blogs.technet.microsoft.com/machinelearning/feed>
 [Allen Institute for Artificial Intelligence (AI2) - YouTube](https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/videos) | <https://www.youtube.com/feeds/videos.xml?channel_id=UCEqgmyWChwvt6MFGGlmUQCQ>
-[Singularity - reddit](https://www.reddit.com/r/singularity/) | <https://www.reddit.com/r/singularity/.rss?format=xml>
 [Expert System - Artificial Intelligence](https://www.expertsystem.com/blog/) | <http://www.expertsystem.com/blog/feed>
 [AWS Machine Learning Blog](https://aws.amazon.com/cn/blogs/machine-learning/) | <https://aws.amazon.com/blogs/ai/feed>
 [AI Roadmap Institute Blog – Medium](https://medium.com/ai-roadmap-institute) | <https://medium.com/feed/ai-roadmap-institute>
