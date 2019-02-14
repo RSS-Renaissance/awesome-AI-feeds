@@ -45,9 +45,9 @@ TITLE | RSS LINK
 [Blog - Neural Network Console](https://support.dl.sony.com/blogs/) | <https://support.dl.sony.com/blogs/feed>
 [fast.ai · Making neural nets uncool again](https://www.fast.ai/) | <http://www.fast.ai/atom.xml?format=xml>
 [neural networks Archives - ExtremeTech](https://www.extremetech.com/tag/neural-networks) | <https://www.extremetech.com/tag/neural-networks/feed>
-[neural network | Hackaday](https://hackaday.com/tag/neural-network/) | <https://hackaday.com/tag/neural-network/feed>
+[neural network - Hackaday](https://hackaday.com/tag/neural-network/) | <https://hackaday.com/tag/neural-network/feed>
 [Blog - Intel AI](https://www.intel.ai/blog/#gs.8hlBBKIB) | <https://ai.intel.com/blog/feed>
-[Machine Learning Blog | HackerEarth Blog](https://www.hackerearth.com/blog/machine-learning/) | <http://blog.hackerearth.com/machine-learning/feed>
+[Machine Learning Blog - HackerEarth Blog](https://www.hackerearth.com/blog/machine-learning/) | <http://blog.hackerearth.com/machine-learning/feed>
 [OpenAI Blog](https://blog.openai.com/) | <https://blog.openai.com/rss>
 [The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/) | <http://bair.berkeley.edu/blog/feed.xml>
 [WildML – Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com/) | <http://www.wildml.com/feed/?x=1>
@@ -63,6 +63,8 @@ TITLE | RSS LINK
 [BLOG – LEEDS NEURAL NETWORKS](https://leedsneuralnetworks.wordpress.com/blog/) | <https://leedsneuralnetworks.wordpress.com/blog/feed>
 
 ## Text Analytics
+TITLE | RSS LINK
+----- | -----
 [Blog on Text Analytics - Provalis Research](https://provalisresearch.com/blog/) | <https://provalisresearch.com/feed>
 [Natural Language Processing Blog - AYLIEN](http://blog.aylien.com/) | <http://blog.aylien.com/rss>
 [Blog - Rosette Text Analytics](https://www.rosette.com/blog/) | <https://www.rosette.com/feed>
